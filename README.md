@@ -1,2 +1,2 @@
-# ADFS-DAPPs
+# ADFS-DAPP
 ADFS Dapp Source code
